@@ -56,8 +56,8 @@ Fizzi is an innovative, fully animated e-commerce landing page that showcases a 
 1.  Clone the repository:
     
 ```bash
-git clone https://github.com/chhavi6V/Frizzi-Sodacan.git
-cd Frizzi-Sodacan    
+git clone https://github.com/chhavi6V/Fizzi-Sodacan.git
+cd Fizzi-Sodacan    
 ```
 
 2.  Install dependencies:
